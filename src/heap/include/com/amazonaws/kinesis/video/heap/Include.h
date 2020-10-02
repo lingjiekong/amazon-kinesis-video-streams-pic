@@ -9,9 +9,9 @@ extern "C" {
 #endif
 
 #pragma once
-#include <com/amazonaws/kinesis/video/common/CommonDefs.h>
-#include <com/amazonaws/kinesis/video/common/PlatformUtils.h>
-#include <com/amazonaws/kinesis/video/utils/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/CommonDefs.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/PlatformUtils.h>
+#include <webrtc/com/amazonaws/kinesis/video/utils/Include.h>
 
 /**
  * We define minimal heap size as 1 MB

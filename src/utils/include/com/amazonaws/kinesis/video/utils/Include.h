@@ -10,8 +10,8 @@ extern "C" {
 
 #pragma once
 
-#include <com/amazonaws/kinesis/video/common/CommonDefs.h>
-#include <com/amazonaws/kinesis/video/common/PlatformUtils.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/CommonDefs.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/PlatformUtils.h>
 
 #define MAX_STRING_CONVERSION_BASE          36
 

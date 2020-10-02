@@ -10,14 +10,14 @@
 extern "C" {
 #endif
 
-#include <com/amazonaws/kinesis/video/common/CommonDefs.h>
-#include <com/amazonaws/kinesis/video/common/PlatformUtils.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/CommonDefs.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/PlatformUtils.h>
 
 // IMPORTANT! Some of the headers are not tightly packed!
 ////////////////////////////////////////////////////
 // Public headers
 ////////////////////////////////////////////////////
-#include <com/amazonaws/kinesis/video/utils/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/utils/Include.h>
 
 ////////////////////////////////////////////////////
 // Status return codes
